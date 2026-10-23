@@ -1,0 +1,15 @@
+{
+  "items": [
+    { "id": "c1", "name": "Americano", "category": "coffee", "price": 8000, "description": "Kopi hitam yang bold dan menyegarkan", "image": "", "available": true },
+    { "id": "c2", "name": "Kopi Vare", "category": "coffee", "price": 10000, "description": "Signature Coffee", "image": "", "available": true },
+    { "id": "c3", "name": "Caramel Macchiato", "category": "coffee", "price": 13000, "description": "Manis karamel berpadu kopi yang lembut", "image": "", "available": true },
+    { "id": "c4", "name": "Butterscotch Latte", "category": "coffee", "price": 13000, "description": "Manis butterscotch dengan sentuhan gurih", "image": "", "available": true },
+    { "id": "c5", "name": "Hazelnut Latte", "category": "coffee", "price": 13000, "description": "Aroma hazelnut yang creamy", "image": "", "available": true },
+    { "id": "c6", "name": "Vanilla Latte", "category": "coffee", "price": 13000, "description": "Wangi vanila yang manis dan lembut", "image": "", "available": true },
+    { "id": "n1", "name": "Chocolate", "category": "non", "price": 12000, "description": "Coklat dengan bahan premium", "image": "", "available": true },
+    { "id": "n2", "name": "Matcha Latte", "category": "non", "price": 15000, "description": "Pure matcha yang earthy, lembut, dan menyegarkan", "image": "", "available": true },
+    { "id": "s1", "name": "Mix Platter", "category": "snack", "price": 15000, "description": "Sosis, kentang, nugget", "image": "", "available": true },
+    { "id": "s2", "name": "French Fries", "category": "snack", "price": 10000, "description": "Kentang goreng renyah dengan rasa gurih", "image": "", "available": true },
+    { "id": "s3", "name": "Dimsum Goreng (4 pcs)", "category": "snack", "price": 15000, "description": "Isi daging ayam dengan keju lumer, renyah di luar", "image": "", "available": true }
+  ]
+}
